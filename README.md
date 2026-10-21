@@ -75,11 +75,11 @@ Services are listed **alphabetically**. Listing does **not** imply endorsement. 
 
 ---
 
-### DSH API
+### 97wl
 
 | Field | Details |
 |-------|---------|
-| **Website** | [api.dshapi.icu](https://api.dshapi.icu) |
+| **Website** | [api.97wl.cc](https://api.97wl.cc) |
 | **Models** | DeepSeek V4 (Flash / V4.1 Flash / Pro), GLM-5.2 / GLM-5.3 / GLM-5.3 Flash, Kimi K2.8 / K3, MiniMax M3, Hunyuan 3 / 4; GPT-6 series via dedicated group |
 | **Payment** | Alipay / WeChat Pay (CNY), pay-as-you-go credit, no expiry |
 | **API Compatibility** | OpenAI-compatible (`/v1/models`, `/v1/chat/completions`, `/v1/responses`) and Anthropic-compatible (`/v1/messages`) on the same base URL |
