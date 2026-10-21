@@ -75,7 +75,7 @@ Services are listed **alphabetically**. Listing does **not** imply endorsement. 
 
 ---
 
-### DSH API
+### removed
 
 | Field | Details |
 |-------|---------|
