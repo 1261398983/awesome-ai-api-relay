@@ -7,9 +7,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway](https://your-endpoint.example.com/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://your-endpoint.example.com/)
+> [[CC] 改两行环境变量即可接入 →]()
 
 
 ![Last Updated](https://img.shields.io/badge/updated-2026--09-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![License CC0](https://img.shields.io/badge/license-CC0-lightgrey)
@@ -381,7 +381,7 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway](https://your-endpoint.example.com/)**：
+本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -399,5 +399,5 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 [免费模型链接](https://1261398983.github.io/free-model-links/) · [配置指南](https://1261398983.github.io/ai-api-guide/) · [Coding 福利导航](https://1261398983.github.io/ai-coding-welfare/) · [公益站导航](https://1261398983.github.io/ai-api-gongyi-nav/) · [免费供应商](https://1261398983.github.io/free-ai-providers/)
 
-**[Sample Gateway 中转站](https://your-endpoint.example.com/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
