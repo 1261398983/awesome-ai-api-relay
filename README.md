@@ -7,9 +7,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →]()
 
 
 ![Last Updated](https://img.shields.io/badge/updated-2026--09-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![License CC0](https://img.shields.io/badge/license-CC0-lightgrey)
@@ -83,11 +81,9 @@ Services are listed **alphabetically**. Listing does **not** imply endorsement. 
 
 ---
 
-### removed
 
 | Field | Details |
 |-------|---------|
-| **Website** | [your-endpoint.example.com](https://your-endpoint.example.com) |
 | **Models** | DeepSeek V4 (Flash / V4.1 Flash / Pro), GLM-5.2 / GLM-5.3 / GLM-5.3 Flash, Kimi K2.8 / K3, MiniMax M3, Hunyuan 3 / 4; GPT-6 series via dedicated group |
 | **Payment** | Alipay / WeChat Pay (CNY), pay-as-you-go credit, no expiry |
 | **API Compatibility** | OpenAI-compatible (`/v1/models`, `/v1/chat/completions`, `/v1/responses`) and Anthropic-compatible (`/v1/messages`) on the same base URL |
@@ -381,7 +377,6 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -389,7 +384,6 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试
 
-👉 **https://your-endpoint.example.com/**
 
 > 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
 
@@ -399,7 +393,6 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 [免费模型链接](https://1261398983.github.io/free-model-links/) · [配置指南](https://1261398983.github.io/ai-api-guide/) · [Coding 福利导航](https://1261398983.github.io/ai-coding-welfare/) · [公益站导航](https://1261398983.github.io/ai-api-gongyi-nav/) · [免费供应商](https://1261398983.github.io/free-ai-providers/)
 
-**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
 ---
 
