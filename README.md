@@ -1,4 +1,4 @@
-# Sample Gateway · 逆向工程 | Awesome AI API Relay — Awesome AI API Relay [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 示例网关 · 逆向工程 | Awesome AI API Relay — Awesome AI API Relay [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of AI API relay and aggregation services for developers.
 >
@@ -7,7 +7,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
+> 注册只需 邮箱，、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
 
 
 ![Last Updated](https://img.shields.io/badge/updated-2026--09-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![License CC0](https://img.shields.io/badge/license-CC0-lightgrey)
@@ -379,7 +379,7 @@ This list is released under [CC0 1.0 Universal](https://creativecommons.org/publ
 
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
-- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
+- **注册门槛低** — 邮箱即可，、无需手机号、无需外币卡
 - **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试
